@@ -1,0 +1,25 @@
+B2B Marketplace Insights
+========================
+
+
+
+Observations:
+- Supplier and price data may be missing due to marketplace protections.
+- Product listings still reveal market demand patterns.
+Total products collected: 41
+Unique suppliers: 0
+
+Top Categories:
+category
+machinery    41
+Name: count, dtype: int64
+
+Top Supplier Locations:
+Series([], Name: count, dtype: int64)
+
+Missing Prices:
+41
+
+Data Observations:
+- Some listings do not include prices (negotiation-based).
+- Supplier clusters indicate regional manufacturing hubs.
