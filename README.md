@@ -1,14 +1,14 @@
-\ B2B Marketplace Data Pipeline
+ B2B Marketplace Data Pipeline
 
 
 
-\ Overview
+ Overview
 
 This project collects and analyzes product listings from B2B marketplace directories to identify market demand trends and insights.
 
 
 
-\ Features
+ Features
 
 \- Automated data collection pipeline
 
