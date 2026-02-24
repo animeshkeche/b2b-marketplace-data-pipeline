@@ -1,14 +1,14 @@
-\# B2B Marketplace Data Pipeline
+\ B2B Marketplace Data Pipeline
 
 
 
-\## Overview
+\ Overview
 
 This project collects and analyzes product listings from B2B marketplace directories to identify market demand trends and insights.
 
 
 
-\## Features
+\ Features
 
 \- Automated data collection pipeline
 
@@ -21,60 +21,6 @@ This project collects and analyzes product listings from B2B marketplace directo
 \- Insights report generation
 
 
-
-\## Architecture
-
-Crawler → ETL Cleaning → Structured Dataset → Analysis → Insights
-
-
-
-\## How to Run
-
-
-
-1\. Install dependencies:
-
-&nbsp;  pip install -r requirements.txt
-
-
-
-2\. Run pipeline:
-
-&nbsp;  python main.py
-
-
-
-\## Output
-
-\- data/products.csv
-
-\- data/products.json
-
-\- charts/
-
-\- report.txt
-
-
-
-\## Insights Generated
-
-\- Product demand trends
-
-\- Category distribution
-
-\- Market observations
-
-
-
-\## Challenges \& Handling
-
-Major B2B marketplaces implement anti-scraping protections.  
-
-The pipeline includes resilient extraction logic to ensure reliable data collection.
-
-
-
-\## Future Improvements
 
 \- Browser-based scraping for dynamic content
 
